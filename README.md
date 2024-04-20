@@ -12,3 +12,5 @@ https://medium.com/@siddhesh.codemaster.github/simplifying-data-science-data-sci
 
 - Simplifying Data Science: Equipping Yourself for the Data Revolution — Essential Tools: Curious about the magic behind extracting insights from Data? Dive into the essential tools and technologies used in data science!
 https://medium.com/@siddhesh.codemaster.github/simplifying-data-science-equipping-yourself-for-the-data-revolution-essential-tools-50f9a059c107
+
+Stay Tuned, we will navigate through everything, we will take each and evey step together be it a big step or a mere smaller one.
