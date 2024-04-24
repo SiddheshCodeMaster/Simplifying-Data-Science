@@ -25,4 +25,11 @@ sd(dataset$Sepal.Length) # Standard Deviation value of this column
 var(dataset$Sepal.Length) # Variation value of this column
 
 
+# Boxplot: 
+input <- mtcars[, c('mpg','cyl')]
+
+boxplot(mpg ~ cyl, data = mtcars,
+        main = "mpg by cylinders",
+        xlab = "MPG",
+        ylab = "Cylinders")
 
