@@ -16,4 +16,8 @@ https://medium.com/@siddhesh.codemaster.github/simplifying-data-science-data-sci
 
 https://medium.com/@siddhesh.codemaster.github/simplifying-data-science-equipping-yourself-for-the-data-revolution-essential-tools-50f9a059c107
 
+- Simplifying Data Science: Oh, Analysis has its types too! — PART I: Level Up Your Data Skills: Master the Basics of Data Analysis
+
+https://medium.com/@siddhesh.codemaster.github/simplifying-data-science-oh-analysis-has-its-types-too-part-i-60051c6b34d2
+
 Stay Tuned, we will navigate through everything, we will take each and evey step together be it a big step or a mere smaller one.
