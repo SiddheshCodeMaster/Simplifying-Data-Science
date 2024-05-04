@@ -20,4 +20,4 @@ https://medium.com/@siddhesh.codemaster.github/simplifying-data-science-equippin
 
 https://medium.com/@siddhesh.codemaster.github/simplifying-data-science-oh-analysis-has-its-types-too-part-i-60051c6b34d2
 
-Stay Tuned, we will navigate through everything, we will take each and evey step together be it a big step or a mere smaller one.
+Stay Tuned, we will navigate through everything, we will take each and evey step together be it a big step or a mere small one.
